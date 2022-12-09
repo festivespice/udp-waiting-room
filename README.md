@@ -10,3 +10,7 @@ This project was submitted as a response to creating a UDP waiting room network 
 class in 2022 of my masters at Florida Polytechnic University. 
 
 In this project, I solidified my skills in communicating using a protocol like UDP, multi-threading, and developing server-client programs. 
+
+
+This project was written in Intellij Idea, and I used Maven to build the project but there aren't any dependencies that I installed because the project doesn't
+depend on Maven or resources outside of Java using JDK 18. 
